@@ -1,7 +1,7 @@
 {
-  "version": "2.4.13",
-  "tag": "v2.4.13",
-  "asset_name": "BoostPanel-2.4.13-GPU-Monitor-Cleanup.zip",
-  "sha256": "4b6514db8d4e1560e7cbe7fd2aaa5c954faf67e90e4dab2e5ab4679b2ec81735",
-  "changelog": "Perbaikan tampilan GPU Monitor dan penghilangan informasi adapter yang berulang."
+  "version": "2.4.14",
+  "tag": "v2.4.14",
+  "asset_name": "BoostPanel.exe",
+  "sha256": "F0B1242DFA302FCD64C2E47054775CD45DEB9BCCB3B1B9BD952AD4AB2BAD5B2E",
+  "changelog": "Perbaikan Interface"
 }
