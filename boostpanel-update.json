@@ -1,7 +1,21 @@
 {
-  "version": "2.4.14",
-  "tag": "v2.4.14",
+  "version": "2.5.0s",
+  "tag": "v2.5.0s",
   "asset_name": "BoostPanel.exe",
-  "sha256": "C395017EF7245A6547F493187EB095EEAD84B945F98799E5A4BF5B215ED180B2",
-  "changelog": "Perbaikan Interface"
+  "sha256": "EFDE64D3D31A7E046DE67E5BE36F217EFF71CFCE620DF919A0186FFC4CC85AC2",
+  "changelog": [
+    "Major UI improvements and refined Windows 11-inspired design.",
+    "Added CPU, GPU, RAM, and battery monitoring with hardware vendor detection.",
+    "Added battery health calculation and dynamic battery indicators.",
+    "Improved AMD and NVIDIA Tuning Center compatibility handling.",
+    "Added Fan Control and Windows High Performance GPU preference.",
+    "Improved RAM cleanup and application optimization modules.",
+    "Added customizable Acrylic blur intensity and performance settings.",
+    "Added optional UI animations and smooth scrolling.",
+    "Added Light Mode (Beta) and improved application settings.",
+    "Improved Quick Profiles and persistent toggle state synchronization.",
+    "Redesigned updater dialogs and release changelog interface.",
+    "Improved update installation reliability and SHA-256 verification.",
+    "Various bug fixes, UI refinements, and stability improvements."
+  ]
 }
