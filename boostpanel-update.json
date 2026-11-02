@@ -9,6 +9,6 @@
     "Added automatic fallback to the existing Python memory monitoring implementation when the native DLL is unavailable.",
     "Added a standalone test utility to verify the native memory engine.",
     "Added a dedicated build script for compiling the C++ engine using MSVC.",
-    "Added optimized Python bytecode compilation using PyInstaller."
+    "Added optimized Python bytecode compilation using PyInstallers."
   ]
 }
