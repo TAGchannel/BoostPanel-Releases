@@ -1,6 +1,11 @@
 {
-  "version": "2.6.0",
-  "tag": "v2.6.0",
-  "asset_name": "BoostPanel.exe",
-  "sha256": "7DB150DD6174231F6AD98B84329F3D2BB0DD4454DC5FEB84E7C3D91FA3CED662"
+  "product": "BoostPanel Next",
+  "latestVersion": "1.0.0",
+  "displayVersion": "BoostPanel Next 1.0.0 Pre-Release",
+  "channel": "pre-release",
+  "prerelease": true,
+  "releaseUrl": "https://github.com/TAGchannel/BoostPanel-Releases/releases",
+  "downloadUrl": "",
+  "publishedAt": "2026-11-25T00:00:00Z",
+  "releaseNotes": "BoostPanel Next 1.0.0 Pre-Release: WPF desktop app berbasis .NET 8, Audio Control dengan profil EQ/Preamp per endpoint dan penyimpanan persisten, manajemen perangkat audio Windows, monitoring sistem, jendela maintenance DSP, dan Update Center GitHub. Intel Control dan tema Windows 11 masih dalam pengembangan."
 }
