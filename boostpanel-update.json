@@ -1,21 +1,24 @@
 {
   "product": "BoostPanel Next",
-
   "version": "2.6.1",
-  "tag": "v1.0.0-PreRelease",
-  "asset_name": "BoostPanel-Next-1.0.0-PreRelease-Setup.exe",
-  "sha256": "330CAF5DE8EBBA3D7FF07E8221BC0422F9F787AD8392ED752A0A70D58334E161",
-  "build_id": "261-next-migration",
+  "tag": "v1.0.1",
+  "asset_name": "BoostPanel-Next-1.0.1-Patch-Update-Setup.exe",
+  "sha256": "c87e657686f5bffd8622db8bfc865f410bff30dd9acbaac57b99dc4710787a92",
+  "build_id": "261-next-migration-101",
   "changelog": [
-    "Migration from BoostPanel Classic 2.6.0 to BoostPanel Next 1.0.0."
+    "Migration from BoostPanel Classic to BoostPanel Next 1.0.1 Patch Update.",
+    "Improved application startup and system tray window restoration.",
+    "Improved monitoring graph scheduling and idle performance.",
+    "Updated GitHub Update Center and installer upgrade infrastructure.",
+    "Added experimental Vanguard CPU Guard.",
+    "Improved application stability and fixed multiple build and UI issues."
   ],
-
-  "latestVersion": "1.0.0",
-  "displayVersion": "BoostPanel Next 1.0.0 Pre-Release",
+  "latestVersion": "1.0.1",
+  "displayVersion": "BoostPanel Next 1.0.1 Patch Update",
   "channel": "pre-release",
   "prerelease": true,
-  "releaseUrl": "https://github.com/TAGchannel/BoostPanel-Releases/releases/tag/v1.0.0-PreRelease",
-  "downloadUrl": "https://github.com/TAGchannel/BoostPanel-Releases/releases/download/v1.0.0-PreRelease/BoostPanel-Next-1.0.0-PreRelease-Setup.exe",
-  "publishedAt": "2026-11-25T15:00:00Z",
-  "releaseNotes": "BoostPanel Next 1.0.0 Pre-Release."
+  "releaseUrl": "https://github.com/TAGchannel/BoostPanel-Releases/releases/tag/v1.0.1",
+  "downloadUrl": "https://github.com/TAGchannel/BoostPanel-Releases/releases/download/v1.0.1/BoostPanel-Next-1.0.1-Patch-Update-Setup.exe",
+  "packageType": "exe",
+  "releaseNotes": "BoostPanel Next 1.0.1 Patch Update. Bug fixes, improved startup reliability, monitoring idle performance, updater infrastructure improvements, and experimental Vanguard CPU Guard."
 }
